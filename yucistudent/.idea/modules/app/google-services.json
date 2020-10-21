@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "710890549417",
+    "firebase_url": "https://yucistudent.firebaseio.com",
+    "project_id": "yucistudent",
+    "storage_bucket": "yucistudent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710890549417:android:7a5c2d63fd8b1a9d96f9b8",
+        "android_client_info": {
+          "package_name": "com.example.yucistudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710890549417-vm47mqjk810ejmu1422akj2ked84mhin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yucistudent",
+            "certificate_hash": "b66ab55f70dc1f519f561fcf1c0ce570aff46fdb"
+          }
+        },
+        {
+          "client_id": "710890549417-2fs11q7hhi6h5vk0kobc1uhii2a0oqss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIWITJxI3alMvR84Q05IYXCWeeaxMc9JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710890549417-2fs11q7hhi6h5vk0kobc1uhii2a0oqss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
