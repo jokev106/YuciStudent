@@ -9,16 +9,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".StudentMainActivity"></activity>
+        <activity android:name=".CourseData"></activity>
+        <activity android:name=".adapter.StudentAdapter" />
         <activity android:name=".StudentData" />
+        <activity android:name=".StudentMainActivity" />
         <activity android:name=".LecturerDetail" />
         <activity android:name=".adapter.LecturerAdapter" />
         <activity android:name=".LecturerData" />
-        <activity android:name=".Starter" />
         <activity android:name=".AddCourse" />
         <activity android:name=".AddLecturer" />
         <activity android:name=".StudentLogin" />
         <activity android:name=".StudentRegister" />
+        <activity android:name=".Starter" />
         <activity android:name=".SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
